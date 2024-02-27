@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.outfit{
+  font-family: 'Outfit';
+}
+
+.text{
+  line-height: 26px;
+  font-size: 1.125rem;
+  letter-spacing: .0001rem;
+}
